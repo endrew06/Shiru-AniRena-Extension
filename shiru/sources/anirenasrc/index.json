@@ -1,0 +1,6 @@
+{
+  "search": {
+    "url": "https://www.anirena.com/search?q={query}",
+    "open_external": true
+  }
+}
