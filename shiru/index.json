@@ -8,6 +8,6 @@
     "nsfw": false,
     "description": "Shiru extension for AniRena (external search)",
     "icon": "https://www.anirena.com/favicon.ico",
-    "update": "gh:SEU_USUARIO/SEU_REPO/shiru"
+    "update": "gh:enderewmachado/Shiru-AniRena-Extension"
   }
 ]
