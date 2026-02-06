@@ -1,0 +1,13 @@
+[
+  {
+    "id": "anirenasrc",
+    "name": "AniRena SRC",
+    "version": "1.0.0",
+    "main": "sources/anirenasrc",
+    "type": "external",
+    "nsfw": false,
+    "description": "Shiru extension for AniRena (external search)",
+    "icon": "https://www.anirena.com/favicon.ico",
+    "update": "gh:SEU_USUARIO/SEU_REPO/shiru"
+  }
+]
